@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Arial, sans-serif;
+}
+.bg-color{
+    background-color: #eaf6f6;
+}
+.profile-size{
+    padding: 100px 0px;
+    height: 15%;
+    width: 15%;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+hr{
+ border-color: gray;
+ border-style: dotted;
+ border-bottom-style: none;
+ border-width: 3px;
+ width: 4%;
+}
+h1{
+    color: #66bfbf;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    font-family: Sacramento cursive;
+}
+
+h2{
+    color: #66bfbf;
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin: auto;
+    text-align: center;
+}
+h3{
+    color: #11999e;
+    font-family: sans-serif;
+}
+div{
+    text-align: center;
+}
+.dev{
+    text-decoration-line: underline;
+}
+.top-cloud{
+    position: relative;
+    left: 400px;
+}
+.bottom-cloud{
+    position: relative;
+    right: 300px;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.code-img{
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+.gaming-img{
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+.bottom-container{
+    background-color: cadetblue;
+    height: 100px;
+    line-height: 5;
+}
+:hover.footer-link{
+    color: white;
+}
+.footer-link{
+    padding: 50px;
+}
+
+.btn{
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: cadetblue;
+    line-height: 100px;
+    padding: 7px 9px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 15px;
+}
+.close{
+    background-color: cadetblue;
+}
